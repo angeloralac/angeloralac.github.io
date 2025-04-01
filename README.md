@@ -7,7 +7,7 @@
 - Se subieron los cambios al repositorio clonado
 
   ## Tecnologias utilizadas:
-  -GitHub
+  - GitHub
   - VSCode
   - Deepseek
   - Virtual Box
